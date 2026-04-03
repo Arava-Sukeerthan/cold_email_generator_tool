@@ -47,7 +47,7 @@ Generates a customized email
 └── README.md             # Project documentation
 ▶️ Installation & Setup
 1️⃣ Clone the repository
-git clone https://github.com/your-username/ai-email-generator.git
+git clone https://github.com/Arava-Sukeerthan/cold_email_generator_tool.git
 cd ai-email-generator
 2️⃣ Install dependencies
 pip install -r requirements.txt
